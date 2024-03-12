@@ -1,0 +1,13 @@
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\bin\Debug\CRUD_2.exe.config
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\bin\Debug\CRUD_2.exe
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\bin\Debug\CRUD_2.pdb
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\bin\Debug\EntityFramework.dll
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\bin\Debug\EntityFramework.xml
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\obj\Debug\CRUD_2.csproj.AssemblyReference.cache
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\obj\Debug\CRUD_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\obj\Debug\CRUD_2.csproj.CoreCompileInputs.cache
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\obj\Debug\CRUD_2.csproj.CopyComplete
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\obj\Debug\CRUD_2.exe
+C:\Users\pc-12\OneDrive\Работен плот\Erkan\CRUD_2\obj\Debug\CRUD_2.pdb
